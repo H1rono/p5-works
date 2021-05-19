@@ -32,3 +32,5 @@ sketches I made for [#つぶやきProcessing](https://twitter.com/tweetprocessin
 26. https://twitter.com/h1rono_k/status/1370694675615477762
 27. https://twitter.com/h1rono_k/status/1373590764274393088
 28. https://twitter.com/h1rono_k/status/1376852841738891266
+29. https://twitter.com/h1rono_k/status/1393497379152687108
+30. https://twitter.com/h1rono_k/status/1393792838605758464
